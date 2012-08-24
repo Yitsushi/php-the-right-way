@@ -1,14 +1,16 @@
-# Welcome
+# Üdvözlet
 
-There's a lot of outdated information on the Web that leads new PHP users astray, propagating bad practices and bad
-code. This must stop. _PHP: The Right Way_ is an easy-to-read, quick reference for PHP best practices, accepted coding
-standards, and links to authoritative tutorials around the Web.
+Nagyon sok elavult tartalom van a neten, ami tévútra vezetheti, rossz technikákra és szörnyű kódolási
+stílusra taníthatja a PHP-t tanulni vágyókat. Ennek véget kell vetni. _PHP: A helyes út_ ezt próbálja
+kiküszöbölni egy könnyen olvasható referenciával a PHP nyelv szépségeiről, helyes használatáról,
+elfogadott kódolási irtányelveiről és olyan linkekkel, amik nem elavult, nem hibás és hasznos tananyagok
+lehet bárki számára, akit érdekel a nyelv.
 
-## Translations
+## Fordítások, avagy milyen nyelven érheted még el
 
 _PHP: The Right Way_ is (or soon will be) translated into many different languages:
 
-* [English](http://www.phptherightway.com)
+* [English](http://www.phptherightway.com) _(eredeti)_
 * [Chinese](http://wulijun.github.com/php-the-right-way)
 * [Japanese](http://ja.phptherightway.com)
 * Polish (Coming Soon)
@@ -17,25 +19,28 @@ _PHP: The Right Way_ is (or soon will be) translated into many different languag
 * [Spanish](http://es.phptherightway.com)
 * Ukrainian (Coming Soon)
 
-## Disclaimer
+## Figyelmeztetés
 
-_There is no canonical way to use PHP_. However, this website is a humble display of best practices,
-available options, and good information. It aims to introduce new PHP developers and to rethink seasoned pros with fresh
-ideas.
+_Nincs egy egységes út a PHP használatához._ Ez az oldal megpróbál bemutatni egy olyan utat, ami járható
+_(és egyben ajánlott)_, ha el akarsz sajátítani jó technikákat, egy jó hozzáállást, ha azt szeretnéd, hogy mások is
+hozzá tudjanak szólni az általad írt programhoz, mert az érthető, szépen vezetett. Megpróbálja bemutatni az elérhető
+lehetőségeket, hasznos információkat és irányelveket. Célja az, hogy bevezetést adjon a nyelvvel ismerkedőknek és
+elgondolkodtassa a profikat, hogy hol lehetnének esetleg jobbak, abban amit csinálnak.
 
-This is a living document and will continue to be updated with more helpful information and examples as they become
-available.
+Ez egy élő oldal, ami arra vár, hogy minél több hasznos tartalom kerüljön rá. Minél több információ kerüljön egy helyre.
 
-## How to Contribute
+## Hogyan tudsz te is részt venni ebben?
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Segíts, hogy ez az oldal egy biztos kezdést tudjon adni minden új PHP programozónak! 
+Help make this website the best resource for new PHP programmers! [Együttműködés GitHub-on][1]
+A magyar tartalmat pedig fent a sarokban lévő _Fork me on GitHub_ linken éred el.
 
-## Spread the Word!
+## Terjeszd az idét!
 
-_PHP: The Right Way_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+Vannak bannerképek a _PHP: A helyes út_ weboldalához, amiket te is kirakhatsz a saját oldaladra. Támogass minket és
+minden fejlesztőt azzal, hogy megmutatod hol találnak hasznos információkat.
 
-[See Banner Images][2]
+[Nézd meg a Bannerképeket][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
 [2]: /banners.html
